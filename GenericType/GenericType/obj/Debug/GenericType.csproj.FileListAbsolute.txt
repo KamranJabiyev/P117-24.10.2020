@@ -1,0 +1,6 @@
+E:\P509\C#\GenericType\GenericType\bin\Debug\GenericType.exe.config
+E:\P509\C#\GenericType\GenericType\bin\Debug\GenericType.exe
+E:\P509\C#\GenericType\GenericType\bin\Debug\GenericType.pdb
+E:\P509\C#\GenericType\GenericType\obj\Debug\GenericType.csprojAssemblyReference.cache
+E:\P509\C#\GenericType\GenericType\obj\Debug\GenericType.exe
+E:\P509\C#\GenericType\GenericType\obj\Debug\GenericType.pdb
